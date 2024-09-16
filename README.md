@@ -41,8 +41,8 @@ You’ll gain the skills needed to accurately decompose time series data and for
 - **R**: Explore deeper statistical functions and analysis for ARIMA models.
 ## Outcomes
 
-By the end of the course, you’ll be able to:
+By the end of the course, I was able to:
 - Effectively decompose time series data.
 - Build ARIMA models that offer accurate and consistent forecasts.
-- Apply your new forecasting skills to real-world business data, improving decision-making and forecasting accuracy.
+- Apply new forecasting skills to real-world business data, improving decision-making and forecasting accuracy.
 
